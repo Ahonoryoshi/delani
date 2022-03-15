@@ -1,0 +1,49 @@
+#cont1{
+  background-image: url('/IP3/assets/backgrounds/h_img.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+#cont3{
+  background-image: url('/IP3/assets/backgrounds/s_image.jpg');
+  color: white;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+#cont6{
+  background-image: url('/IP3/assets/backgrounds/c_image.jpg');
+  color: white;
+}
+textarea{
+  background-color: transparent;
+  color: white;
+}
+#name{
+  background-color: transparent;
+}
+#email{
+  background-color: transparent;
+}
+.container{
+  text-align:center;
+}
+.lorem{
+  color: transparent;
+}
+.des{
+  display: none;
+}
+.dev{
+  display: none;
+}
+.pro{
+  display: none;
+}
+.img1{
+  width: 90%;
+  height: 90%;
+}
+.img1:hover{
+  cursor: pointer;
+  text-decoration: none;
+}
